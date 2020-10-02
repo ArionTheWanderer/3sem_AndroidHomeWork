@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AndroidHomework3</string>
+    <string name="app_name" translatable="false">AndroidHomework3</string>
+    <string name="et_hint" translatable="false">Enter th price</string>
 </resources>
